@@ -1,10 +1,10 @@
 const int trigger_pin = 12;
 const int echo_pin = 13;
 const int buzzer = 2;
-const int mled = 3;  //pinlerimizi tanımladık
-const int yled = 4;
-const int sled = 5;
-const int kled = 6;
+const int mled = 6;  //pinlerimizi tanımladık
+const int yled = 5;
+const int sled = 4;
+const int kled = 3;
 
 int sure;
 int mesafe;    //sure ve mesafe adlı değişkenler oluşturuyoruz
